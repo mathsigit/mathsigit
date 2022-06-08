@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I am Stana 👋
 
-<!--
-**mathsigit/mathsigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  You are the
+    <img src="https://komarev.com/ghpvc/?username=mathsigit&label=Visitors&color=orange&style=plastic" alt="mathsigit" /> 
+  Visitor !
 
-Here are some ideas to get you started:
+<!-- <p align="center">
+  Thanks for follow me
+  <a href="https://www.github.com/mathsigit" target="blank">
+    <img src="https://img.shields.io/github/followers/mathsigit?label=Followers&color=orange&style=plastic">
+  </a>
+</p>
+ -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/mathsigit">
+    <img alt="Stana's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsigit&layout=compact&theme=dark"/>
+</a>
+
+
+![Stana's Github Stats](https://github-readme-stats.vercel.app/api?username=mathsigit&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)
+
+
+<a href="https://github.com/mathsigit"><img alt="Stana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mathsigit&theme=dark"/></a>
+
